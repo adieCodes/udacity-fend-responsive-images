@@ -13,7 +13,7 @@ I've left some boilerplate below for you.
 */
 
 body {
-  
+
 }
 
 article {
@@ -24,6 +24,11 @@ h1 {
 
 }
 
-img {
+p img {
+  width: 1rem;
+}
 
+img {
+  width: 50rem;
+  max-width: 100%;
 }
