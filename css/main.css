@@ -20,6 +20,17 @@ body {
   margin: 0 auto;
 }
 
+header svg {
+  width: 25%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header h1 {
+  display: inline-block;
+  padding-left: 1rem;
+}
+
 article {
 
 }
